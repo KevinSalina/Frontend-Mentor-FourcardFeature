@@ -2,7 +2,7 @@
 
 Project to create a **Fourcard Feature** with only vanilla HTML, CSS, and JS.
 
-🔗 **Live preview:** [here](https://frontend-mentor-faq-accordion-topaz.vercel.app/)
+🔗 **Live preview:** [here](https://frontend-mentor-fourcard-feature.vercel.app/)
 
 From Frontend Mentor's [challenges](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub/four-card-feature-bw3ysrE_t).
 
